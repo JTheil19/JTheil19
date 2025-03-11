@@ -10,14 +10,14 @@
 
 ## 💻 Technologies & Tools
 
-| Langage | Logo |
+| Languages | Logo |
 |---------|------|
 | C++     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/> |
 | PHP     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/> |
 | Python  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> |
 
 
-| Système d'exploitation | Logo |
+| Operating Systems | Logo |
 |------------------------|------|
 | Windows              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/> |
 | Linux                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/> |
