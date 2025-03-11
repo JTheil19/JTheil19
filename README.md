@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello, I'm John
 
 🔹 Passionate about Technology | 💻 Cybersecurity | Coding
@@ -30,3 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton_profil)
 
+| Langage | Logo |
+|---------|------|
+| C++     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/> |
+| PHP     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/> |
